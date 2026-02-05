@@ -1,0 +1,50 @@
+JE Samples Basic Analysis
+=========================
+
+Total rows (excluding header): 37,905
+Total columns: 30
+
+Date Ranges
+-----------
+EffectiveDate: 2014-07-01 to 2016-06-30
+EntryDate: 2014-06-25 to 2016-06-30
+
+Column Summary
+--------------
+JEEntryKey: non-null=37,905, nulls=0, unique=18,951 | samples: 20151, 20151, 20152, 20152, 20153
+JENumber: non-null=37,905, nulls=0, unique=18,951 | samples: 20151, 20151, 20152, 20152, 20153
+JEIdentifier: non-null=37,905, nulls=0, unique=18,951 | samples: 20151, 20151, 20152, 20152, 20153
+GLAccountNumber: non-null=37,905, nulls=0, unique=74 | samples: 11845, 43440, 11845, 43440, 11845
+BLANK: non-null=0, nulls=37,905, unique=0
+EffectiveDate: non-null=37,905, nulls=0, unique=492 | samples: 2014-07-02 00:00:00, 2014-07-02 00:00:00, 2014-07-02 00:00:00, 2014-07-02 00:00:00, 2014-07-02 00:00:00
+Period: non-null=37,905, nulls=0, unique=24 | samples: 2015-01, 2015-01, 2015-01, 2015-01, 2015-01
+EntryDate: non-null=37,905, nulls=0, unique=719 | samples: 2014-06-26 00:00:00, 2014-06-26 00:00:00, 2014-06-26 00:00:00, 2014-06-26 00:00:00, 2014-06-26 00:00:00
+PreparerID: non-null=37,905, nulls=0, unique=15 | samples: POS, POS, POS, POS, POS
+Source: non-null=37,905, nulls=0, unique=14 | samples: CREDIT CARD RECEIPT        , CREDIT CARD RECEIPT        , CREDIT CARD RECEIPT        , CREDIT CARD RECEIPT        , CREDIT CARD RECEIPT        
+BusinessUnit: non-null=37,905, nulls=0, unique=9 | samples: HOTEL PANTRY, HOTEL PANTRY, HOTEL PANTRY, HOTEL PANTRY, FOOD SERVICE
+JEDescription: non-null=37,905, nulls=0, unique=3,065 | samples: CREDIT CARD RECEIPTS, CREDIT CARD RECEIPTS, CREDIT CARD RECEIPTS, CREDIT CARD RECEIPTS, CREDIT CARD RECEIPTS
+Debit: non-null=18,952, nulls=18,953, unique=12,014 | samples: 10.19, 20.95, 23.91, 41.05, 45.32
+Credit: non-null=18,954, nulls=18,951, unique=12,016 | samples: -10.19, -20.95, -23.91, -41.05, -45.32
+Amount: non-null=37,905, nulls=0, unique=24,011 | samples: 10.19, -10.19, 20.95, -20.95, 23.91
+AbsoluteAmount: non-null=0, nulls=37,905, unique=0
+SysManInd: non-null=0, nulls=37,905, unique=0
+UserDefined1: non-null=0, nulls=37,905, unique=0
+UserDefined2: non-null=0, nulls=37,905, unique=0
+UserDefined3: non-null=0, nulls=37,905, unique=0
+PeriodFlag: non-null=0, nulls=37,905, unique=0
+AccountType: non-null=37,905, nulls=0, unique=4 | samples: Assets, Revenue, Assets, Revenue, Assets
+AccountClass: non-null=37,905, nulls=0, unique=18 | samples: Cash, Sales-Other, Cash, Sales-Other, Cash
+GLAccountStartingBalance: non-null=3, nulls=37,902, unique=1 | samples: INVENTORY - FOOD SERVICE    , INVENTORY - FOOD SERVICE    , INVENTORY - FOOD SERVICE    
+GLAccountEndingBalance: non-null=0, nulls=37,905, unique=0
+SortOrder: non-null=0, nulls=37,905, unique=0
+GLAccountName: non-null=37,905, nulls=0, unique=73 | samples: Operating Bank Account, Sales - Other, Operating Bank Account, Sales - Other, Operating Bank Account
+Category: non-null=0, nulls=37,905, unique=0
+Marked: non-null=0, nulls=37,905, unique=0
+MarkedInReport: non-null=0, nulls=37,905, unique=0
+
+Numeric Column Statistics
+-------------------------
+GLAccountNumber: count=37,850, min=11,845.00, max=86,200.00, mean=29,372.43, sum=1,111,746,289.00
+Debit: count=18,951, min=-160,918.46, max=318,505.80, mean=2,287.75, sum=43,355,165.55
+Credit: count=18,954, min=-318,505.80, max=160,918.46, mean=-2,287.39, sum=-43,355,165.55
+Amount: count=37,905, min=-318,505.80, max=318,505.80, mean=0.00, sum=0.00

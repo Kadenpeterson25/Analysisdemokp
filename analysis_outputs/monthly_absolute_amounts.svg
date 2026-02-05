@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500">
+<style>text{font-family:Arial, sans-serif; font-size:12px;}</style>
+<text x="450.0" y="30" text-anchor="middle" font-size="18">Monthly Absolute Amount Totals (First 12 Months)</text>
+<rect x="60.0" y="235.90115477098743" width="55.833333333333336" height="204.09884522901257" fill="#4C78A8" />
+<text x="87.91666666666667" y="455" text-anchor="middle">2014-07</text>
+<text x="87.91666666666667" y="230.90115477098743" text-anchor="middle">2,443,571</text>
+<rect x="125.83333333333334" y="171.57215276484533" width="55.833333333333336" height="268.4278472351547" fill="#4C78A8" />
+<text x="153.75" y="455" text-anchor="middle">2014-08</text>
+<text x="153.75" y="166.57215276484533" text-anchor="middle">3,213,750</text>
+<rect x="191.66666666666669" y="169.39400939026473" width="55.833333333333336" height="270.6059906097353" fill="#4C78A8" />
+<text x="219.58333333333334" y="455" text-anchor="middle">2014-09</text>
+<text x="219.58333333333334" y="164.39400939026473" text-anchor="middle">3,239,828</text>
+<rect x="257.5" y="60.0" width="55.833333333333336" height="380.0" fill="#4C78A8" />
+<text x="285.4166666666667" y="455" text-anchor="middle">2014-10</text>
+<text x="285.4166666666667" y="55.0" text-anchor="middle">4,549,546</text>
+<rect x="323.33333333333337" y="217.36986236236325" width="55.833333333333336" height="222.63013763763675" fill="#4C78A8" />
+<text x="351.25000000000006" y="455" text-anchor="middle">2014-11</text>
+<text x="351.25000000000006" y="212.36986236236325" text-anchor="middle">2,665,437</text>
+<rect x="389.16666666666674" y="199.4785099271805" width="55.833333333333336" height="240.5214900728195" fill="#4C78A8" />
+<text x="417.0833333333334" y="455" text-anchor="middle">2014-12</text>
+<text x="417.0833333333334" y="194.4785099271805" text-anchor="middle">2,879,641</text>
+<rect x="455.00000000000006" y="90.7763010668956" width="55.833333333333336" height="349.2236989331044" fill="#4C78A8" />
+<text x="482.91666666666674" y="455" text-anchor="middle">2015-01</text>
+<text x="482.91666666666674" y="85.7763010668956" text-anchor="middle">4,181,077</text>
+<rect x="520.8333333333334" y="190.24141563621188" width="55.833333333333336" height="249.75858436378812" fill="#4C78A8" />
+<text x="548.75" y="455" text-anchor="middle">2015-02</text>
+<text x="548.75" y="185.24141563621188" text-anchor="middle">2,990,232</text>
+<rect x="586.6666666666667" y="191.8359694702224" width="55.833333333333336" height="248.1640305297776" fill="#4C78A8" />
+<text x="614.5833333333334" y="455" text-anchor="middle">2015-03</text>
+<text x="614.5833333333334" y="186.8359694702224" text-anchor="middle">2,971,141</text>
+<rect x="652.5000000000001" y="120.19226858105446" width="55.833333333333336" height="319.80773141894554" fill="#4C78A8" />
+<text x="680.4166666666667" y="455" text-anchor="middle">2015-04</text>
+<text x="680.4166666666667" y="115.19226858105446" text-anchor="middle">3,828,895</text>
+<rect x="718.3333333333335" y="160.6579457910957" width="55.833333333333336" height="279.3420542089043" fill="#4C78A8" />
+<text x="746.2500000000001" y="455" text-anchor="middle">2015-05</text>
+<text x="746.2500000000001" y="155.6579457910957" text-anchor="middle">3,344,420</text>
+<rect x="784.1666666666667" y="134.63138679957768" width="55.833333333333336" height="305.3686132004223" fill="#4C78A8" />
+<text x="812.0833333333334" y="455" text-anchor="middle">2015-06</text>
+<text x="812.0833333333334" y="129.63138679957768" text-anchor="middle">3,656,023</text>
+</svg>
