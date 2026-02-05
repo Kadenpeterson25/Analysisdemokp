@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500">
+<style>text{font-family:Arial, sans-serif; font-size:12px;}</style>
+<text x="450.0" y="30" text-anchor="middle" font-size="18">Top Business Units (Count)</text>
+<rect x="60.0" y="60.0" width="77.77777777777777" height="380.0" fill="#4C78A8" />
+<text x="98.88888888888889" y="455" text-anchor="middle">FOOD SERVICE</text>
+<text x="98.88888888888889" y="55.0" text-anchor="middle">18,010</text>
+<rect x="147.77777777777777" y="194.2343142698501" width="77.77777777777777" height="245.7656857301499" fill="#4C78A8" />
+<text x="186.66666666666666" y="455" text-anchor="middle">HOTEL</text>
+<text x="186.66666666666666" y="189.2343142698501" text-anchor="middle">11,648</text>
+<rect x="235.55555555555554" y="370.58300943920045" width="77.77777777777777" height="69.41699056079956" fill="#4C78A8" />
+<text x="274.44444444444446" y="455" text-anchor="middle">HOTEL PANTRY</text>
+<text x="274.44444444444446" y="365.58300943920045" text-anchor="middle">3,290</text>
+<rect x="323.3333333333333" y="387.1249305941144" width="77.77777777777777" height="52.87506940588562" fill="#4C78A8" />
+<text x="362.2222222222222" y="455" text-anchor="middle">HOUSEKEEPING</text>
+<text x="362.2222222222222" y="382.1249305941144" text-anchor="middle">2,506</text>
+<rect x="411.1111111111111" y="398.62409772348695" width="77.77777777777777" height="41.375902276513045" fill="#4C78A8" />
+<text x="450.0" y="455" text-anchor="middle">MAINTENANCE</text>
+<text x="450.0" y="393.62409772348695" text-anchor="middle">1,961</text>
+<rect x="498.88888888888886" y="433.0372015546918" width="77.77777777777777" height="6.962798445308162" fill="#4C78A8" />
+<text x="537.7777777777777" y="455" text-anchor="middle">Hotel</text>
+<text x="537.7777777777777" y="428.0372015546918" text-anchor="middle">330</text>
+<rect x="586.6666666666666" y="437.9111604664075" width="77.77777777777777" height="2.0888395335924486" fill="#4C78A8" />
+<text x="625.5555555555555" y="455" text-anchor="middle">OPER - GENERAL</text>
+<text x="625.5555555555555" y="432.9111604664075" text-anchor="middle">99</text>
+<rect x="674.4444444444443" y="438.73403664630763" width="77.77777777777777" height="1.265963353692393" fill="#4C78A8" />
+<text x="713.3333333333333" y="455" text-anchor="middle">PAYROLL S/B JV</text>
+<text x="713.3333333333333" y="433.73403664630763" text-anchor="middle">60</text>
+<rect x="762.2222222222222" y="439.9789006107718" width="77.77777777777777" height="0.02109938922820655" fill="#4C78A8" />
+<text x="801.1111111111111" y="455" text-anchor="middle">INTEREST</text>
+<text x="801.1111111111111" y="434.9789006107718" text-anchor="middle">1</text>
+</svg>

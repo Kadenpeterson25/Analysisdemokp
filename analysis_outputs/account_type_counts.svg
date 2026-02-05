@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500">
+<style>text{font-family:Arial, sans-serif; font-size:12px;}</style>
+<text x="450.0" y="30" text-anchor="middle" font-size="18">Top Account Types (Count)</text>
+<rect x="60.0" y="60.0" width="187.5" height="380.0" fill="#4C78A8" />
+<text x="153.75" y="455" text-anchor="middle">Assets</text>
+<text x="153.75" y="55.0" text-anchor="middle">20,110</text>
+<rect x="257.5" y="278.6275484833416" width="187.5" height="161.37245151665837" fill="#4C78A8" />
+<text x="351.25" y="455" text-anchor="middle">Revenue</text>
+<text x="351.25" y="273.6275484833416" text-anchor="middle">8,540</text>
+<rect x="455.0" y="305.5922426653406" width="187.5" height="134.40775733465938" fill="#4C78A8" />
+<text x="548.75" y="455" text-anchor="middle">Expenses</text>
+<text x="548.75" y="300.5922426653406" text-anchor="middle">7,113</text>
+<rect x="652.5" y="399.5246146195922" width="187.5" height="40.47538538040776" fill="#4C78A8" />
+<text x="746.25" y="455" text-anchor="middle">Liabilities</text>
+<text x="746.25" y="394.5246146195922" text-anchor="middle">2,142</text>
+</svg>
